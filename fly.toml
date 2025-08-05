@@ -1,9 +1,4 @@
-# fly.toml app configuration file generated for iloven8n on 2023-05-25T18:21:54+02:00
-#
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
-
-app = "iloven8n"
+app = "n8npamec"
 
 [env]
   DB_POSTGRESDB_PORT = "5432"
